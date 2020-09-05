@@ -79,7 +79,7 @@ if (selected) {
     `
       - cd into project folder => ${name}
       - run command "npm install"
-      - run command "npm run dev" and have fun developing
+      - read the readme.md for further template directions
       `
   );
   console.log(
