@@ -30,3 +30,6 @@ npx merced-spinup react myproject
 - componentzoo
 - superfunc
 - funcomponent
+- expressreact
+- expressejs
+- expressrest

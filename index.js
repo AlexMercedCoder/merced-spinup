@@ -19,7 +19,10 @@ const templates = {
   componentzoo: "https://github.com/AlexMercedCoder/componentzoo-template.git",
   angular: "https://github.com/AlexMercedCoder/angular-template.git",
   svelte: "https://github.com/AlexMercedCoder/svelte-template.git",
-  expressreact: "https://github.com/AlexMercedCoder/express-react-views-MVC-template.git",
+  expressreact:
+    "https://github.com/AlexMercedCoder/express-react-views-MVC-template.git",
+  expressejs: "https://github.com/AlexMercedCoder/express-ejs-template.git",
+  expressrest: "https://github.com/AlexMercedCoder/express-rest-template.git"
 };
 
 //selected template
@@ -89,6 +92,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest"
   );
 }
