@@ -22,7 +22,8 @@ const templates = {
   expressreact:
     "https://github.com/AlexMercedCoder/express-react-views-MVC-template.git",
   expressejs: "https://github.com/AlexMercedCoder/express-ejs-template.git",
-  expressrest: "https://github.com/AlexMercedCoder/express-rest-template.git"
+  expressrest: "https://github.com/AlexMercedCoder/express-rest-template.git",
+  merver: "https://github.com/AlexMercedCoder/Merver-Template.git",
 };
 
 //selected template
@@ -92,6 +93,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver"
   );
 }
