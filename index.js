@@ -24,6 +24,8 @@ const templates = {
   expressejs: "https://github.com/AlexMercedCoder/express-ejs-template.git",
   expressrest: "https://github.com/AlexMercedCoder/express-rest-template.git",
   merver: "https://github.com/AlexMercedCoder/Merver-Template.git",
+  reactwebpack: "https://github.com:AlexMercedCoder/ReactWebpackTemplate.git",
+  reactrouter: "https://github.com/AlexMercedCoder/ReactRouterTemplate.git",
 };
 
 //selected template
@@ -84,6 +86,7 @@ if (selected) {
     `
       - cd into project folder => ${name}
       - run command "npm install"
+      - remove git remote with command "git remote rm origin"
       - read the readme.md for further template directions
       `
   );
@@ -93,6 +96,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebpack, reactrouter"
   );
 }
