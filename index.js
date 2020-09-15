@@ -26,6 +26,8 @@ const templates = {
   merver: "https://github.com/AlexMercedCoder/Merver-Template.git",
   reactwebpack: "https://github.com:AlexMercedCoder/ReactWebpackTemplate.git",
   reactrouter: "https://github.com/AlexMercedCoder/ReactRouterTemplate.git",
+  koa: "https://github.com/AlexMercedCoder/KoaTemplate.git",
+  polka: "https://github.com/AlexMercedCoder/polkatemplate.git",
 };
 
 //selected template
@@ -96,6 +98,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebpack, reactrouter"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebpack, reactrouter, koa"
   );
 }
