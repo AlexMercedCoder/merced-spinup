@@ -38,3 +38,4 @@ npx merced-spinup react myproject
 - reactrouter
 - koa
 - polka
+- apollo
