@@ -39,3 +39,5 @@ npx merced-spinup react myproject
 - koa
 - polka
 - apollo
+- reactredux
+- reactreducer

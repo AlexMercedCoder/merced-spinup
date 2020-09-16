@@ -29,6 +29,8 @@ const templates = {
   koa: "https://github.com/AlexMercedCoder/KoaTemplate.git",
   polka: "https://github.com/AlexMercedCoder/polkatemplate.git",
   apollo: "https://github.com/AlexMercedCoder/ApolloServerTemplate.git",
+  reactredux: "https://github.com/AlexMercedCoder/reactreduxtemplate.git",
+  reactreducer: "https://github.com/AlexMercedCoder/reactreducertemplate.git",
 };
 
 //selected template
@@ -99,6 +101,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebpack, reactrouter, koa, polka, apollo"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebpack, reactrouter, koa, polka, apollo, reactredux, reactreducer"
   );
 }
