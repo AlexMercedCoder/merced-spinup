@@ -34,7 +34,7 @@ npx merced-spinup react myproject
 - expressejs
 - expressrest
 - merver
-- reactwebpack
+- reactwebp
 - reactrouter
 - koa
 - polka
