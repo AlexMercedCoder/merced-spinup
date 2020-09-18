@@ -41,3 +41,5 @@ npx merced-spinup react myproject
 - apollo
 - reactredux
 - reactreducer
+- jquerywebpack
+- basichtml
