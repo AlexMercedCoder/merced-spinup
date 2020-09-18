@@ -33,6 +33,8 @@ const templates = {
   reactreducer: "https://github.com/AlexMercedCoder/reactreducertemplate.git",
   jquerywebpack: "https://github.com/AlexMercedCoder/jqeurywebpacktemplate.git",
   basichtml: "https://github.com/AlexMercedCoder/basichtmlcssjstemplate.git",
+  ts: "https://github.com/AlexMercedCoder/BasicTypescriptTemplate.git",
+  reactts: "https://github.com/AlexMercedCoder/ReactWebpackTypescriptTemplate.git"
 };
 
 //selected template
@@ -103,6 +105,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml,ts,reactts"
   );
 }

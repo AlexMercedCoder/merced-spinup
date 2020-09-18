@@ -43,3 +43,5 @@ npx merced-spinup react myproject
 - reactreducer
 - jquerywebpack
 - basichtml
+- ts
+- reactts
