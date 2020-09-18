@@ -1,6 +1,6 @@
 {
   "name": "merced-spinup",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "This is a command-line tool for generating projects of several types.",
   "main": "index.js",
   "scripts": {

@@ -24,7 +24,7 @@ const templates = {
   expressejs: "https://github.com/AlexMercedCoder/express-ejs-template.git",
   expressrest: "https://github.com/AlexMercedCoder/express-rest-template.git",
   merver: "https://github.com/AlexMercedCoder/Merver-Template.git",
-  reactwebpack: "https://github.com:AlexMercedCoder/ReactWebpackTemplate.git",
+  reactwebpack: "https://github.com/AlexMercedCoder/ReactWebpackTemplate.git",
   reactrouter: "https://github.com/AlexMercedCoder/ReactRouterTemplate.git",
   koa: "https://github.com/AlexMercedCoder/KoaTemplate.git",
   polka: "https://github.com/AlexMercedCoder/polkatemplate.git",
