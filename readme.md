@@ -18,6 +18,8 @@ npx merced-spinup react myproject
 
 ## AVAILABLE TEMPLATES
 
+### Frontend
+
 - react
 - angular
 - vue
@@ -30,18 +32,25 @@ npx merced-spinup react myproject
 - componentzoo
 - superfunc
 - funcomponent
-- expressreact
-- expressejs
-- expressrest
-- merver
 - reactwebp
 - reactrouter
-- koa
-- polka
-- apollo
 - reactredux
 - reactreducer
 - jquerywebpack
 - basichtml
-- ts
 - reactts
+
+### Backend
+
+- fastify
+- koa
+- polka
+- apollo
+- expressreact
+- expressejs
+- expressrest
+- merver
+
+### Other
+
+- ts

@@ -34,7 +34,9 @@ const templates = {
   jquerywebpack: "https://github.com/AlexMercedCoder/jqeurywebpacktemplate.git",
   basichtml: "https://github.com/AlexMercedCoder/basichtmlcssjstemplate.git",
   ts: "https://github.com/AlexMercedCoder/BasicTypescriptTemplate.git",
-  reactts: "https://github.com/AlexMercedCoder/ReactWebpackTypescriptTemplate.git"
+  reactts:
+    "https://github.com/AlexMercedCoder/ReactWebpackTypescriptTemplate.git",
+  fastify: "https://github.com/AlexMercedCoder/FastifyTemplate.git",
 };
 
 //selected template
@@ -105,6 +107,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml,ts,reactts"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml,ts,reactts,fastify"
   );
 }
