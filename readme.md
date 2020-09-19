@@ -39,6 +39,7 @@ npx merced-spinup react myproject
 - jquerywebpack
 - basichtml
 - reactts
+- kofu
 
 ### Backend
 
