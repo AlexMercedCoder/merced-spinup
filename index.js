@@ -45,6 +45,8 @@ const templates = {
   plainrollup: "https://github.com/AlexMercedCoder/plainrolluptemplate.git",
   commander: "https://github.com/AlexMercedCoder/commanderclitooltemplate.git",
   basicreact: "https://github.com/AlexMercedCoder/react_webpack_basic.git",
+  reacthtml: "https://github.com/AlexMercedCoder/reacthtml.git",
+  vuehtml: "https://github.com/AlexMercedCoder/vuehtml.git",
 };
 
 //selected template
@@ -115,6 +117,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml"
   );
 }

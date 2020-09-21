@@ -41,6 +41,8 @@ npx merced-spinup react myproject
 - basichtml
 - reactts
 - kofu
+- vuehtml (vue with a script tag)
+- reacthtml (react with a script tag)
 
 ### Backend
 
