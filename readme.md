@@ -56,3 +56,5 @@ npx merced-spinup react myproject
 ### Other
 
 - ts
+- plainwebpack
+- plainrollup

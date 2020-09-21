@@ -41,6 +41,8 @@ const templates = {
     "https://github.com/arthurbernierjr/kofuscript-starter-kit-template.git",
   expresssocket:
     "https://github.com/AlexMercedCoder/express_socketio_template.git",
+  plainwebpack: "https://github.com/AlexMercedCoder/plainwebpacktemplate.git",
+  plainrollup: "https://github.com/AlexMercedCoder/plainrolluptemplate.git"
 };
 
 //selected template
@@ -111,6 +113,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup"
   );
 }
