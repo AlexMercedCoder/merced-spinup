@@ -32,6 +32,7 @@ npx merced-spinup react myproject
 - componentzoo
 - superfunc
 - funcomponent
+- basicreact
 - reactwebp
 - reactrouter
 - reactredux
