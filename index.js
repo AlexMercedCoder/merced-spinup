@@ -44,7 +44,7 @@ const templates = {
   plainwebpack: "https://github.com/AlexMercedCoder/plainwebpacktemplate.git",
   plainrollup: "https://github.com/AlexMercedCoder/plainrolluptemplate.git",
   commander: "https://github.com/AlexMercedCoder/commanderclitooltemplate.git",
-  basicreact: "git@github.com:AlexMercedCoder/react_webpack_basic.git"
+  basicreact: "https://github.com/AlexMercedCoder/react_webpack_basic.git",
 };
 
 //selected template
