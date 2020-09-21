@@ -58,3 +58,4 @@ npx merced-spinup react myproject
 - ts
 - plainwebpack
 - plainrollup
+- commander
