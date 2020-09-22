@@ -2,7 +2,7 @@
 
 const { exec, spawnSync } = require("child_process");
 
-const [, , template, name] = process.argv;
+const [, , template, name = "myproject"] = process.argv;
 
 //Templates
 const templates = {
@@ -47,6 +47,8 @@ const templates = {
   basicreact: "https://github.com/AlexMercedCoder/react_webpack_basic.git",
   reacthtml: "https://github.com/AlexMercedCoder/reacthtml.git",
   vuehtml: "https://github.com/AlexMercedCoder/vuehtml.git",
+  angularjs: "https://github.com/AlexMercedCoder/basicangularjstemplate.git",
+  jqueryhtml: "https://github.com/AlexMercedCoder/jquerybasictemplate.git",
 };
 
 //selected template
@@ -117,6 +119,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml"
   );
 }

@@ -38,11 +38,13 @@ npx merced-spinup react myproject
 - reactredux
 - reactreducer
 - jquerywebpack
-- basichtml
+- basichtml (basic html/css/js setup)
 - reactts
 - kofu
 - vuehtml (vue with a script tag)
 - reacthtml (react with a script tag)
+- angularjs (AngularJS 1.8, LTS Support Ends 12/31/21)
+- jqueryhtml (jquery with a script tag)
 
 ### Backend
 
