@@ -57,6 +57,7 @@ npx merced-spinup react myproject
 - expressrest
 - merver
 - expresssocket
+- mongoexpressreact
 
 ### Other
 
