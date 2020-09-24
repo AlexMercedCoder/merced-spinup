@@ -51,6 +51,7 @@ const templates = {
   jqueryhtml: "https://github.com/AlexMercedCoder/jquerybasictemplate.git",
   mongoexpressreact:
     "https://github.com/AlexMercedCoder/express-mongo-reactviews-template.git",
+  reactrollup: "https://github.com/AlexMercedCoder/ReactRollupTemplate.git"
 };
 
 //selected template
@@ -121,6 +122,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml, mongoexpressreact"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml, mongoexpressreact, reactrollup"
   );
 }

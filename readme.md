@@ -16,6 +16,8 @@ for example
 npx merced-spinup react myproject
 ```
 
+After spining up a project, cd into the folder and run npm install, then remove the existing git repository or origin remote.
+
 ## AVAILABLE TEMPLATES
 
 ### Frontend
@@ -45,6 +47,7 @@ npx merced-spinup react myproject
 - reacthtml (react with a script tag)
 - angularjs (AngularJS 1.8, LTS Support Ends 12/31/21)
 - jqueryhtml (jquery with a script tag)
+- reactrollup
 
 ### Backend
 
