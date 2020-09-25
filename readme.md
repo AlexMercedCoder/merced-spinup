@@ -68,3 +68,4 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - plainwebpack
 - plainrollup
 - commander
+- nextts (Next Static Site Generator with Typescript)
