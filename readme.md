@@ -16,6 +16,10 @@ for example
 npx merced-spinup react myproject
 ```
 
+default template if not specified: mercedui
+
+default folder name if not specified: myproject
+
 After spining up a project, cd into the folder and run npm install, then remove the existing git repository or origin remote.
 
 ## AVAILABLE TEMPLATES
@@ -69,3 +73,4 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - plainrollup
 - commander
 - nextts (Next Static Site Generator with Typescript)
+- gulp
