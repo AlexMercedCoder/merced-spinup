@@ -52,6 +52,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - angularjs (AngularJS 1.8, LTS Support Ends 12/31/21)
 - jqueryhtml (jquery with a script tag)
 - reactrollup
+- gruntreact
 
 ### Backend
 
@@ -74,3 +75,4 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - commander
 - nextts (Next Static Site Generator with Typescript)
 - gulp
+- grunt
