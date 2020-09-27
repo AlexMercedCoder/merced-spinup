@@ -66,6 +66,8 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - merver
 - expresssocket
 - mongoexpressreact
+- expressmongo
+- expresspg
 
 ### Other
 
