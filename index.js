@@ -58,8 +58,12 @@ const templates = {
   gruntreact: "https://github.com/AlexMercedCoder/GruntReactTemplate.git",
   expressmongo: "https://github.com/AlexMercedCoder/expressmongotemplate.git",
   expresspg: "https://github.com/AlexMercedCoder/expressrestpostgres.git",
-  reactsassbootstrap: "https://github.com/AlexMercedCoder/ReactSassRouterContextBootstrap.git",
-  reactsassmaterialui: "https://github.com/AlexMercedCoder/ReactSassMaterialUI.git"
+  reactsassbootstrap:
+    "https://github.com/AlexMercedCoder/ReactSassRouterContextBootstrap.git",
+  reactsassmaterialui:
+    "https://github.com/AlexMercedCoder/ReactSassMaterialUI.git",
+  reactsasscontext:
+    "https://github.com/AlexMercedCoder/ReactSassContextRouter.git",
 };
 
 //selected template
@@ -130,6 +134,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml, mongoexpressreact, reactrollup, nextts, gulp, grunt, gruntreact, expressmongo, expresspg, reactsassbootstrap, reactsassmaterialui,"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml, mongoexpressreact, reactrollup, nextts, gulp, grunt, gruntreact, expressmongo, expresspg, reactsassbootstrap, reactsassmaterialui, reactsasscontext"
   );
 }

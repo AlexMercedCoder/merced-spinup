@@ -55,6 +55,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - gruntreact
 - reactsassbootstrap
 - reactsassmaterialui
+- reactsasscontext
 
 ### Backend
 
