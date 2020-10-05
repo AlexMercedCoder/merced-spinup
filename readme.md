@@ -53,6 +53,8 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - jqueryhtml (jquery with a script tag)
 - reactrollup
 - gruntreact
+- reactsassbootstrap
+- reactsassmaterialui
 
 ### Backend
 
