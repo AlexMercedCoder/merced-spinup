@@ -110,7 +110,7 @@ if (selected) {
     "BUILDING YOUR PROJECT FOLDER, BE PATIENT, IN THE MEANTIME VISIT DEVNURSERY.COM AND ALEXMERCEDCODER.COM"
   );
 
-  const jsclone = spawnSync(`git`, ["clone", selected, name]);
+  const jsclone = spawnSync(`npx`, ["degit", selected, name]);
   console.log(
     jsclone.stdout ? jsclone.stdout.toString() : jsclone.stderr.toString()
   );
@@ -124,7 +124,6 @@ if (selected) {
     `
       - cd into project folder => ${name}
       - run command "npm install"
-      - remove git remote with command "git remote rm origin"
       - read the readme.md for further template directions
       `
   );
