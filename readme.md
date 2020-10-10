@@ -56,6 +56,8 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - reactsassbootstrap
 - reactsassmaterialui
 - reactsasscontext
+- reactstyled
+- reactjss
 
 ### Backend
 
