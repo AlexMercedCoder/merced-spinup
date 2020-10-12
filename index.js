@@ -67,6 +67,7 @@ const templates = {
   reactstyled:
     "https://github.com/AlexMercedCoder/reactstyledcomponentscontext.git",
   reactjss: "https://github.com/AlexMercedCoder/ReactJssRouterContext",
+  reactloaded: "https://github.com/AlexMercedCoder/react-fully-loaded.git",
 };
 
 //selected template
@@ -136,6 +137,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml, mongoexpressreact, reactrollup, nextts, gulp, grunt, gruntreact, expressmongo, expresspg, reactsassbootstrap, reactsassmaterialui, reactsasscontext, reactstyled, reactjss"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml, mongoexpressreact, reactrollup, nextts, gulp, grunt, gruntreact, expressmongo, expresspg, reactsassbootstrap, reactsassmaterialui, reactsasscontext, reactstyled, reactjss, reactloaded"
   );
 }
