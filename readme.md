@@ -1,6 +1,7 @@
-# merced-reactor
+# merced-spinup
 
-This is a command-line tool for generating frontend projects of several types...
+This is a command-line tool for generating node projects of several types...
+Uses npx degit under the hood so it clones the repo but does not leave behind a git repo.
 
 # how it works
 
