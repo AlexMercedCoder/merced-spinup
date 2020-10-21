@@ -60,6 +60,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - reactstyled
 - reactjss
 - reactloaded
+- reactparcel
 
 ### Backend
 
