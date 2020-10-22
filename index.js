@@ -70,6 +70,11 @@ const templates = {
   reactloaded: "https://github.com/AlexMercedCoder/react-fully-loaded.git",
   express: "https://github.com/AlexMercedCoder/expressdotenv.git",
   react: "git@github.com:AlexMercedCoder/reactbasicrouter.git",
+  snowreact: "snowpack/create-snowpack-app/app-template-react",
+  snowvue: "snowpack/create-snowpack-app/app-template-vue",
+  snowreacts: "snowpack/create-snowpack-app/app-template-react-typescript",
+  snowsvelte: "snowpack/create-snowpack-app/app-template-svelte/",
+  snowpack: "snowpack/create-snowpack-app/app-template-blank",
 };
 
 //selected template
