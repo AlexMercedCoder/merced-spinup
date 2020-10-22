@@ -68,6 +68,9 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - snowreactts
 - snowsvelte
 - snowvue
+- snowts
+- snowlit
+- snowlitts
 
 ### Backend
 
