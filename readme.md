@@ -62,6 +62,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - reactloaded
 - reactparcel
 - snowreactloaded
+- snowreacttask
 
 ### Snowpack Bundler Templates (From Snowpacks Official Templates)
 
