@@ -83,6 +83,10 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - apollo
 - expressreact
 - expressejs
+- expresshandlebars
+- expressmustache
+- expressmarko
+- expresspug
 - expressrest
 - merver
 - expresssocket
