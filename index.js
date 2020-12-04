@@ -89,6 +89,7 @@ const templates = {
     "https://github.com/AlexMercedCoder/expressmustachetemplate.git",
   expressmarko: "https://github.com/AlexMercedCoder/expressmarkotemplate.git",
   expresspug: "https://github.com/AlexMercedCoder/expresspugtemplate.git",
+  gatsbymarkdown: "https://github.com/AlexMercedCoder/GatsbyMarkdownTemplate.git"
 };
 
 //selected template
