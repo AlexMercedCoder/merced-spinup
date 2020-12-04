@@ -105,3 +105,4 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - gulp
 - grunt
 - gatsbymarkdown (static generator configured for rendering markdowns)
+- nextmarkdown (static generator confirgured for rendering markdowns)
