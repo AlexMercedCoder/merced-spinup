@@ -100,6 +100,8 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - nextmarkdown (react)
 - sappermarkdown (svelte)
 - scullymarkdown (angular)
+- gridsomemarkdown (Vue)
+- nuxtmarkdown (Vue)
 
 ### Other
 
