@@ -95,6 +95,12 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - expresspg
 - express
 
+### Markdown Blog Templates
+- gatsbymarkdown (react)
+- nextmarkdown (react)
+- sappermarkdown (svelte)
+- scullymarkdown (angular)
+
 ### Other
 
 - ts
@@ -104,5 +110,3 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - nextts (Next Static Site Generator with Typescript)
 - gulp
 - grunt
-- gatsbymarkdown (static generator configured for rendering markdowns)
-- nextmarkdown (static generator confirgured for rendering markdowns)
