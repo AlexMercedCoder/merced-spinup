@@ -99,6 +99,7 @@ const templates = {
   gridsomemarkdown:
     "https://github.com/AlexMercedCoder/gridsomemarkdowntemplate.git",
   nuxtmarkdown: "https://github.com/AlexMercedCoder/nuxtmarkdowntemplate.git",
+  gatsbyportfolio: "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git"
 };
 
 //selected template
@@ -168,6 +169,6 @@ if (selected) {
   );
 } else {
   console.log(
-    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml, mongoexpressreact, reactrollup, nextts, gulp, grunt, gruntreact, expressmongo, expresspg, reactsassbootstrap, reactsassmaterialui, reactsasscontext, reactstyled, reactjss, reactloaded, express, snowpack, snowreact, snowvue, snowsvelte, snowlit, snowlitts, snowts, snowreactts, snowreactloaded, snowreacttask, expresshandlebars, expressmustache, expressmarko, expresspug, gatsbymarkdown, nextmarkdown, scullymarkdown, sappermarkdown, gridsomemarkdown, nuxtmarkdown"
+    "Please select from one of the follow templates: react, angular, vue, svelte, amponent, mercedui, renderblocks, mblocks, componentzoo, superfunc, funcomponent, basicelement, expressreact, expressejs, expressrest, merver, reactwebp, reactrouter, koa, polka, apollo, reactredux, reactreducer, jquerywebpack, basichtml, ts, reactts, fastify, kofu, expresssocket, plainwebpack, plainrollup, commander, basicreact, reacthtml, vuehtml, angularjs, jqueryhtml, mongoexpressreact, reactrollup, nextts, gulp, grunt, gruntreact, expressmongo, expresspg, reactsassbootstrap, reactsassmaterialui, reactsasscontext, reactstyled, reactjss, reactloaded, express, snowpack, snowreact, snowvue, snowsvelte, snowlit, snowlitts, snowts, snowreactts, snowreactloaded, snowreacttask, expresshandlebars, expressmustache, expressmarko, expresspug, gatsbymarkdown, nextmarkdown, scullymarkdown, sappermarkdown, gridsomemarkdown, nuxtmarkdown, gatsbyportfolio"
   );
 }

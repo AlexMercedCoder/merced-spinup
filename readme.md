@@ -102,6 +102,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - scullymarkdown (angular)
 - gridsomemarkdown (Vue)
 - nuxtmarkdown (Vue)
+- gatsbyportfolio (Gatsby template for a developer portfolio)
 
 ### Other
 
