@@ -31,6 +31,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - angular
 - vue
 - svelte
+- ezcomponent
 - amponent
 - mercedui
 - renderblocks
@@ -71,9 +72,9 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - snowreactts
 - snowsvelte
 - snowvue
-- snowts
-- snowlit
-- snowlitts
+- snowts 
+- snowlit (lit-html)
+- snowlitts (lit-html with typescript)
 
 ### Backend
 
