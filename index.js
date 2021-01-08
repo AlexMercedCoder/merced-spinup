@@ -70,17 +70,19 @@ const templates = {
   reactloaded: "https://github.com/AlexMercedCoder/react-fully-loaded.git",
   express: "https://github.com/AlexMercedCoder/expressdotenv.git",
   react: "git@github.com:AlexMercedCoder/reactbasicrouter.git",
-  snowreact: "snowpackjs/snowpack/create-snowpack-app/app-template-react",
-  snowvue: "snowpackjs/snowpack/create-snowpack-app/app-template-vue",
-  snowreacts:
-    "snowpackjs/snowpack/create-snowpack-app/app-template-react-typescript",
-  snowsvelte: "snowpackjs/snowpack/create-snowpack-app/app-template-svelte/",
-  snowpack: "snowpackjs/snowpack/create-snowpack-app/app-template-blank",
+  snowreact: "snowpackjs/snowpack/create-snowpack-app/app-template-react#main",
+  snowvue: "snowpackjs/snowpack/create-snowpack-app/app-template-vue#main",
+  snowreactts:
+    "snowpackjs/snowpack/create-snowpack-app/app-template-react-typescript#main",
+  snowsvelte:
+    "snowpackjs/snowpack/create-snowpack-app/app-template-svelte#main",
+  snowpack: "snowpackjs/snowpack/create-snowpack-app/app-template-blank#main",
   snowts:
-    "snowpackjs/snowpack/create-snowpack-app/app-template-blank-typescript",
-  snowlit: "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element",
+    "snowpackjs/snowpack/create-snowpack-app/app-template-blank-typescript#main",
+  snowlit:
+    "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element#main",
   snowlitts:
-    "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element-typescript",
+    "snowpackjs/snowpack/create-snowpack-app/app-template-lit-element-typescript#main",
   snowreactloaded: "https://github.com/AlexMercedCoder/showreactloaded.git",
   snowreacttask: "https://github.com/AlexMercedCoder/snowreacttask.git",
   expresshandlebars:
@@ -99,8 +101,9 @@ const templates = {
   gridsomemarkdown:
     "https://github.com/AlexMercedCoder/gridsomemarkdowntemplate.git",
   nuxtmarkdown: "https://github.com/AlexMercedCoder/nuxtmarkdowntemplate.git",
-  gatsbyportfolio: "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git",
-  ezcomponent: "https://github.com/AlexMercedCoder/ezcomponent-template.git"
+  gatsbyportfolio:
+    "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git",
+  ezcomponent: "https://github.com/AlexMercedCoder/ezcomponent-template.git",
 };
 
 //selected template
