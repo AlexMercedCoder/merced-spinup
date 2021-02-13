@@ -46,6 +46,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - reactredux
 - reactreducer
 - jquerywebpack
+- jqueryts
 - basichtml (basic html/css/js setup)
 - reactts
 - kofu

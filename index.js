@@ -104,6 +104,7 @@ const templates = {
   gatsbyportfolio:
     "https://github.com/AlexMercedCoder/gatasbyportfoliotemplate.git",
   ezcomponent: "https://github.com/AlexMercedCoder/ezcomponent-template.git",
+  jqueryts: "https://github.com/AlexMercedCoder/jQueryTypescriptTemplate.git"
 };
 
 //selected template
