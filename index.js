@@ -106,6 +106,7 @@ const templates = {
   ezcomponent: "https://github.com/AlexMercedCoder/ezcomponent-template.git",
   jqueryts:
     "https://github.com/AlexMercedCoder/jQueryTypescriptTemplate.git#main",
+  expressreactmono: "https://github.com/AlexMercedCoder/ExpressReactMonorepoTemplate.git#main"
 };
 
 //selected template

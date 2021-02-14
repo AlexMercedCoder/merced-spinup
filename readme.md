@@ -66,6 +66,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - snowreactloaded
 - snowreacttask
 
+
 ### Snowpack Bundler Templates (From Snowpacks Official Templates)
 
 - snowpack
@@ -96,6 +97,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - expressmongo
 - expresspg
 - express
+- expressreactmono (express/react monorepo)
 
 ### Markdown Blog Templates
 - gatsbymarkdown (react)
