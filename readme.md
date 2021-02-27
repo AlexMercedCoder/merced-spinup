@@ -98,6 +98,8 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - expresspg
 - express
 - expressreactmono (express/react monorepo)
+- netlifyfunc
+- vercelfunc
 
 ### Markdown Blog Templates
 - gatsbymarkdown (react)
