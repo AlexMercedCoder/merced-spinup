@@ -113,8 +113,12 @@ const templates = {
   netlifyfunc:
     "https://github.com/AlexMercedCoder/NetlifyFunctionsTemplate.git#main",
   mercedexpress: "https://github.com/AlexMercedCoder/merced-express.git#main",
-  expressejsmongo: "https://github.com/AlexMercedCoder/expressboilerplate.git#main",
-  expressejsmongosupreme: "https://github.com/AlexMercedCoder/ejs-express-supreme.git#main"
+  expressejsmongo:
+    "https://github.com/AlexMercedCoder/expressboilerplate.git#main",
+  expressejsmongosupreme:
+    "https://github.com/AlexMercedCoder/ejs-express-supreme.git#main",
+  mreact:
+    "https://github.com:Alex-Merced-Templates/merced-react-hooks-template.git#main",
 };
 
 //selected template
