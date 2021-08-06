@@ -67,7 +67,6 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - snowreacttask
 - mreact
 
-
 ### Snowpack Bundler Templates (From Snowpacks Official Templates)
 
 - snowpack
@@ -75,7 +74,7 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - snowreactts
 - snowsvelte
 - snowvue
-- snowts 
+- snowts
 - snowlit (lit-html)
 - snowlitts (lit-html with typescript)
 
@@ -104,8 +103,16 @@ After spining up a project, cd into the folder and run npm install, then remove 
 - expressejsmongosupreme
 - netlifyfunc
 - vercelfunc
+- swaggerexpress
+
+### Non-Node Templates
+
+- flask (python framework, requires python 3.7+)
+- fastapi (python framework, requires python 3.7+)
+- deno (requires deno 1.9+)
 
 ### Markdown Blog Templates
+
 - gatsbymarkdown (react)
 - nextmarkdown (react)
 - sappermarkdown (svelte)

@@ -37,8 +37,7 @@ const templates = {
   reactts:
     "https://github.com/AlexMercedCoder/ReactWebpackTypescriptTemplate.git",
   fastify: "https://github.com/AlexMercedCoder/FastifyTemplate.git",
-  kofu:
-    "https://github.com/arthurbernierjr/kofuscript-starter-kit-template.git",
+  kofu: "https://github.com/arthurbernierjr/kofuscript-starter-kit-template.git",
   expresssocket:
     "https://github.com/AlexMercedCoder/express_socketio_template.git",
   plainwebpack: "https://github.com/AlexMercedCoder/plainwebpacktemplate.git",
@@ -119,6 +118,11 @@ const templates = {
     "https://github.com/AlexMercedCoder/ejs-express-supreme.git#main",
   mreact:
     "https://github.com:Alex-Merced-Templates/merced-react-hooks-template.git#main",
+  swaggerexpress:
+    "https://github.com/Alex-Merced-Templates/Express-Swagger-Template.git#main",
+  flask: "https://github.com/Alex-Merced-Templates/FLASK_2_TEMPLATE#main",
+  fastapi: "https://github.com/Alex-Merced-Templates/FASTApi_Template#main",
+  deno: "https://github.com/Alex-Merced-Templates/DENO_TEMPLATE#main",
 };
 
 //selected template
