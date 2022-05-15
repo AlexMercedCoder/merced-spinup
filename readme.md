@@ -1,3 +1,5 @@
+[note: 5-15-22 - Updated all React Templates to React 18]
+
 # merced-spinup
 
 This is a command-line tool for generating node projects of several types...
